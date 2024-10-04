@@ -1,5 +1,11 @@
 Shown below is a list of my collected CVE's
 
+## RWS MultiTrans
+RWS Group, known commercially as RWS, is a British company that provides intellectual property translation, filing and search services, technical and commercial translation and localization, and develops and supports translation productivity and management software.
+
+- [CVE-2024-43025](https://github.com/Sharpe-nl/CVEs/tree/main/CVE-2024-43025) HTML injection
+- [CVE-2024-43024](https://github.com/Sharpe-nl/CVEs/tree/main/CVE-2024-43024) Stored Cross-Site Scripting (XSS)
+
 ## Passbolt
 Passbolt is an open source password manager designed for collaboration. You can securely generate, store, manage and monitor your team credentials.
 
