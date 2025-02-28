@@ -1,5 +1,14 @@
 Shown below is a list of my collected CVE's
 
+## Nagios XI
+Nagios XI is an extended interface of Nagios Core, intended as the enterprise-level version of the monitoring tool. XI acts as monitoring software, configuration manager and toolkit. While Nagios Core is free, XI must be purchased from Nagios Enterprises.
+
+- [CVE-2024-54957](https://github.com/Sharpe-nl/CVEs/tree/main/CVE-2024-54957) Open Redirect
+- [CVE-2024-54958](https://github.com/Sharpe-nl/CVEs/tree/main/CVE-2024-54958) Cross-Site Scripting (XSS)
+- [CVE-2024-54959](https://github.com/Sharpe-nl/CVEs/tree/main/CVE-2024-54959) Cross-Site Request Forgery (CSRF)
+- [CVE-2024-54960](https://github.com/Sharpe-nl/CVEs/tree/main/CVE-2024-54960) SQL Injection
+- [CVE-2024-54961](https://github.com/Sharpe-nl/CVEs/tree/main/CVE-2024-54961) Information Disclosure
+
 ## RWS MultiTrans
 RWS Group, known commercially as RWS, is a British company that provides intellectual property translation, filing and search services, technical and commercial translation and localization, and develops and supports translation productivity and management software.
 
