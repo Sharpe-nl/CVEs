@@ -1,5 +1,8 @@
 Shown below is a list of my collected CVE's
 
+## IBM Content Navigator
+- [CVE-2024-56341](https://www.ibm.com/support/pages/node/7229839) Cross-site scripting
+
 ## Nagios XI
 Nagios XI is an extended interface of Nagios Core, intended as the enterprise-level version of the monitoring tool. XI acts as monitoring software, configuration manager and toolkit. While Nagios Core is free, XI must be purchased from Nagios Enterprises.
 
