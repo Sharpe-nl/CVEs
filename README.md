@@ -28,3 +28,6 @@ VIA Go/Connect is a Wireless Content Presentation, Collaboration, and Conferenci
 
 - [CVE-2023-33468](https://github.com/Sharpe-nl/CVEs/tree/main/CVE-2023-33468) Remote user connection to device
 - [CVE-2023-33469](https://github.com/Sharpe-nl/CVEs/tree/main/CVE-2023-33469) Remote Code Execution (RCE) with root privileges
+
+## Microsoft Acknowledgement
+<img width="1610" alt="Screenshot 2025-06-14 at 13 31 44" src="https://github.com/user-attachments/assets/47b54d81-8b03-4324-a001-8aeefa66f391" />
